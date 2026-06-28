@@ -4,12 +4,17 @@
   --font-main: 'Inter', Arial;
   --font-accent: 'Press Start 2P';
 
-  --font-weight-regular: 400;
-  --font-weight-bold: 700;
+  --font-weight-regular: 410;
+  --font-weight-bold: 715;
 
-  --color-accent: #000;
-  --contour-color: #000;
-  --animation-fill-color: #FF0000;
+  --background-color: #e7e7e7;
+  --card-background-color: white;
+  --dialog-background-color: white;
+  --color-accent: black;
+  --contour-color: black;
+  --animation-fill-color: red;
+  --floppy-color: white;
+  --button-text-color: white;
 
   --watermark-stroke-color: white;
 
